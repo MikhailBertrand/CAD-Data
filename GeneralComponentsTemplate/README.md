@@ -23,6 +23,12 @@ These are templates, don't edit them.
 
 - BasicFrameMultiEndConnectorR ([マルチエンドコネクタ ABME-2020-4-R](https://jp.misumi-ec.com/vona2/detail/221005479910/?HissuCode=ABME-2020-4-R&searchui_combo_shown=true))
 
-- BasicFrameCubeBracket([キューブブラケット M4シリーズ ABC-2020-4](https://jp.misumi-ec.com/vona2/detail/221005481597/?HissuCode=ABC-2020-4))
+- BasicFrameCubeBracket ([キューブブラケット M4シリーズ ABC-2020-4](https://jp.misumi-ec.com/vona2/detail/221005481597/?HissuCode=ABC-2020-4))
 
-- BasicFrameCornerJoint([コーナージョイント M4シリーズ CJR-2020-4](https://jp.misumi-ec.com/vona2/detail/221005481654/?PNSearch=CJR-2020-4&HissuCode=CJR-2020-4&searchFlow=suggest2products&Keyword=CJR-2020-4))
+- BasicFrameCornerJoint ([コーナージョイント M4シリーズ CJR-2020-4](https://jp.misumi-ec.com/vona2/detail/221005481654/?PNSearch=CJR-2020-4&HissuCode=CJR-2020-4&searchFlow=suggest2products&Keyword=CJR-2020-4))
+
+- BasicFrameBlockBracket ([ブロックブラケット M4シリーズ ABLB-2015-4](https://jp.misumi-ec.com/vona2/detail/221005481430/?PNSearch=ABLB-2015-4))
+
+#### Plates
+
+- CuboidBasicPlate_290_290
