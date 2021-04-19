@@ -7,6 +7,9 @@ These are templates, don't edit them.
 #### BasicFrame
 
 - BasicFrame40 ([ベーシックフレーム M4シリーズ ヘビー級 AFS-2020-4](https://jp.misumi-ec.com/vona2/detail/221005477019/?KWSearch=%e3%83%99%e3%83%bc%e3%82%b7%e3%83%83%e3%82%af%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0%20M4%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba&searchFlow=results2products))
+
+- BasicFrameBothSide40 ([ベーシックフレーム M4シリーズ ヘビー級 AFSW-2020](https://jp.misumi-ec.com/vona2/detail/221005477154/?rid=rid3))
+
 - BasicFrameCornerSide40 ([ベーシックフレーム M4シリーズ ヘビー級 AFST-2020-4](https://jp.misumi-ec.com/vona2/detail/221005477121/?PNSearch=AFST-2020-4&HissuCode=AFST-2020-4&searchFlow=suggest2products&Keyword=AFST-2020-4))
 
 - BasicFrameSingleSide40 ([ベーシックフレーム M4シリーズ ヘビー級 AFSF-2020](https://jp.misumi-ec.com/vona2/detail/221005477086/?KWSearch=AFSF%202020-4&searchFlow=results2products))
