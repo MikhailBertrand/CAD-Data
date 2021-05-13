@@ -32,6 +32,10 @@ These are templates, don't edit them.
 
 - BasicFrameBlockBracket ([ブロックブラケット M4シリーズ ABLB-2015-4](https://jp.misumi-ec.com/vona2/detail/221005481430/?PNSearch=ABLB-2015-4))
 
+#### Hinges
+
+- Hinge-DHS-3239 ([ステンレス蝶番（挟み込み式） DHS-3239](https://jp.misumi-ec.com/vona2/detail/221005479460/?HissuCode=DHS-3239))
+
 #### Plates
 
 - CuboidBasicPlate_290_290
